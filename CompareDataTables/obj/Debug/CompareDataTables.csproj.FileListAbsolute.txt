@@ -1,0 +1,6 @@
+C:\Laxmikant\D\Applications\CompareDataTables\CompareDataTables\bin\Debug\CompareDataTables.exe.config
+C:\Laxmikant\D\Applications\CompareDataTables\CompareDataTables\bin\Debug\CompareDataTables.exe
+C:\Laxmikant\D\Applications\CompareDataTables\CompareDataTables\bin\Debug\CompareDataTables.pdb
+C:\Laxmikant\D\Applications\CompareDataTables\CompareDataTables\obj\Debug\CompareDataTables.csprojResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\CompareDataTables\CompareDataTables\obj\Debug\CompareDataTables.exe
+C:\Laxmikant\D\Applications\CompareDataTables\CompareDataTables\obj\Debug\CompareDataTables.pdb
